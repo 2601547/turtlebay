@@ -1,0 +1,17 @@
+Maxent was run with the following key parameters:
+
+#####
+
+Reg: 1
+Max number of background points: 30,000
+Replicates: 20
+Replicated run type: Bootstrap
+
+Jackknife to measure variance importance: Yes
+Output format: Cloglog
+
+#####
+
+Summary files are saved with this folder and relevant subfolders
+
+Due to filesize limitations, full output is availble upon request: 2601547@protonmail.com
